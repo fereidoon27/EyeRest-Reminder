@@ -54,12 +54,6 @@ sudo apt install python3-tk  # Ubuntu/Debian
 
 ---
 
-### 📷 Screenshot  
-_(Example of the alert screen)_  
-🚀 *[Add a screenshot here if possible]*  
-
----
-
 ### 🤝 Contributing  
 Feel free to fork this repo and submit **pull requests**!  
 Suggestions & improvements are always welcome.  
