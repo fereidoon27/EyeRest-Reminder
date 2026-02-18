@@ -86,7 +86,7 @@ def main():
     interval = 20 * 60  # Define interval as 20 minutes (converted to seconds)
     
     # Define the message that will be displayed in the alert
-    message = "Give your eyes a rest, NADOOOON.\n:)))"
+    message = "Give your eyes a rest, Genius! \n:)))"
     
     try:
         while True:  # Infinite loop to keep displaying alerts at intervals
